@@ -3,7 +3,7 @@
 
 ### Project Overview
 
-In today's competitive retail landscape, understanding hopping trends is crucial for business to stay ahead. This report  delves into a comprehensive analysis of shopping trends, examining various aspects such as customer behaviour, product preferences and regional differences. Our goal i to provide actionable insights that can help business optimize their strategy and enhance customer satisfaction.
+In today's competitive retail landscape, understanding shopping trends is crucial for business to stay ahead. This report  delves into a comprehensive analysis of shopping trends, examining various aspects such as customer behaviour, product preferences and regional differences. Our goal i to provide actionable insights that can help business optimize their strategy and enhance customer satisfaction.
 
 ### Data Sources
 The dataset was sourced from [kaggle](https://www.kaggle.com/datasets/riturajpradhan/shopping-trends).This dataset 'Shopping Trends Data  contails detailed shopping trends , it includes vital information on customer demographics, purchasing behaviour and product specifics enable a comprehensive analysis of shopping trends.
@@ -24,17 +24,16 @@ In the intitial data preparation phase, we performed the following tasks;
 
 1. Data Formatting
 
-   We carried out data formatting  dataset by ensuring the letters were well capitalised by using the function =PROPER().
-   We formatted the data by replacing values to a more understandable and easy format (This was carried out in the size column), we used the find and replace option to carry out this formatting.
+We carried out data formatting  dataset by ensuring the letters were well capitalised by using the function =PROPER().
+We formatted the data by replacing values to a more understandable and easy format (This was carried out in the size column), we used the find and replace option to carry out this formatting.
 
 2. Handling Missing Values
-
  We ran a quick check for any missing values using ctrl+G to check for blanks,the dataset contained no missing values.
 
 3.Removing Duplicates
 We checked for duplicates value by highlighting the wholee data and pressing ctrl+G but there were no duplicates found.
 
-### Data Moddelling
+### Data Modelling
 Out of the fact taable we created three other tables mainly; Customer Table,Product Table and Regional Table. The primary key was Customer ID.
 Below is the data modelling image
 
@@ -111,11 +110,22 @@ The majority of our customers are male, comprising 68% of the total customer bas
 Female customers make up 32% of the total, with a count of 1,248 customers.
 These insights indicate a significant gender disparity in our customer base, with a predominant male demographic. 
 
+
 ## Recommendations
 - Develop marketing campaigns specifically aimed at increasing female customer engagement. Consider creating promotions, discounts, or loyalty programs that appeal to female customers. Review and potentially expand product lines to include items that may be more attractive to female customers, ensuring a broader appeal across genders.
 - Design age-specific promotions and subscription offers to attract younger customers, especially those in the 25-34 age group who currently have the lowest subscription rates.Offer incentives such as exclusive content, discounts or free trials for subscriptions to encourage uptake among all age groups.
 - Simplify and enhance the PayPal payment experience, given its clear preference among customers. Ensure the process is smooth and user-friendly.While focusing on PayPal, also provide clear benefits for using bank transfers and other payment methods to cater to diverse preferences and potentially reduce any barriers to use.
 - Adjust inventory levels and stock replenishment cycles to align with the preference for less frequent shopping intervals. This will help in maintaining optimal stock levels and reducing excess inventory.Schedule major sales events and promotional activities around the periods when customers are most likely to shop (e.g., every three months) to maximize sales impact.
+
+
+#### Dashboard
+![Customer Analysis Dashboard](https://github.com/ezraonyinkwa/Shopping-Trends-Analysis/assets/139281995/9db2a039-d229-40cd-affe-cdac1134936f)
+
+
+
+## 2. Product Analysis
+In this section we are going to look at the different perfomance of our products in terms of sales and units sold.
+- Which product category do we get the most sales?
 
 
 

@@ -1,6 +1,35 @@
 # Shopping-Trends-Analysis
 
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Data Sources](#data-sources)
+3. [Tools Used](#tools-used)
+4. [Skills](#skills)
+5. [Data Cleaning/Preparation](#data-cleaningpreparation)
+6. [Data Modelling](#data-modelling)
+7. [Business Questions](#business-questions)
+8. [Data Analysis](#data-analysis)
+9. [Customer Analysis](#1-customer-analysis)
+    
+   - [How often do our customers make their purchases from us ?](#--how-often-do-our-customers-make-their-purchases-from-us-)
+   - [Which is payment method do most of our customers prefer ?](#--which-is-payment-method-do-most-of-our-customers-prefer-)
+   - [What age group do most of our customers belong to ?](#--what-age-group-do-most-of-our-customers-belong-to-)
+   - [Which age group has the highest number of subscribers to our subscription plan and by how many ?](#--which-age-group-has-the-highest-number-of-subscribers-to-our-subscription-plan-and-by-how-many-)
+   - [What gender are most of our customers ?](--what-gender-are-most-of-our-customers-)
+   - [Recommendations](#recommendations)
+   - [Dashboard](#dashboard)
+     
+10. [Product Analysis](#2-product-analysis)
+    - [Which product category do we get the most sales?](--which-product-category-do-we-get-the-most-sales-)
+    - [Which are our top 10 products and how much do we make in sales from the products ?](#--which-are-our-top-10-products-and-how-much-do-we-make-in-sales-from-the-products-)
+    - [ Which payment method do most of customers use and which do we get the highest amount of money transacted in terms of sales ?](#--which-payment-method-do-most-of-customers-use-and-which-do-we-get-the-highest-amount-of-money-transacted-in-terms-of-sales-)
+    - [ What size of product do our customers purchase the most and how much do we get in terms of sales ?](#--what-size-of-product-do-our-customers-purchase-the-most-and-how-much-do-we-get-in-terms-of-sales-)
+    - [Which is the preffered shipping method ?](--which-is-the-preffered-shipping-method-)
+    - [Recommendations](#recommendations)
+    - [Dashboard](#dashboard)
+
+
 ### Project Overview
 
 In today's competitive retail landscape, understanding shopping trends is crucial for business to stay ahead. This report  delves into a comprehensive analysis of shopping trends, examining various aspects such as customer behaviour, product preferences and regional differences. Our goal i to provide actionable insights that can help business optimize their strategy and enhance customer satisfaction.
@@ -46,7 +75,7 @@ We carried out the analysis in three categories, i.e customer analysis, product 
 - How often do our customers make their purchases from us ?
 - Which is payment method do most of our customers prefer ?
 - What age group do most of our customers belong to?
-- Which age group has the highest number of subscribers to our subscription plan and how by how many?
+- Which age group has the highest number of subscribers to our subscription plan and  by how many?
 - What gender are most of our customers?
   
  2. Product Analysis
@@ -83,7 +112,7 @@ Our analysis indicates that the majority of our customers, totaling 584, prefer 
 Different customers prefer different payment methods, from our analysis we can be able to see the majority of our customers preferred PayPal as their payment method, with a total of 677 customers indicating this preference.
 Conversely, fewer customers preferred paying through bank transfers, with 612 customers choosing this option.These insights indicate a clear preference for PayPal among our customers. Understanding these payment preferences can help us streamline our payment processes, improve customer experience and focus our efforts on enhancing the preferred payment methods.
 
-#### - What age group do most of our customers belong to?
+#### - What age group do most of our customers belong to ?
 
 ![Customers Age Group](https://github.com/ezraonyinkwa/Shopping-Trends-Analysis-Power-BI/assets/139281995/2eb68d23-b8a9-4ea6-8f7c-be653712f5a1)
 
@@ -91,7 +120,7 @@ Conversely, fewer customers preferred paying through bank transfers, with 612 cu
 From our analysis we can be able to see that most of our customers belong to the age group 25-34 with a total of 827 customers, with the male being the dorminant customer gender with 564 male customers while the female customers were 263.
 Meanwhile customers from the age group of 65+ represented the lowest segment of customers with a total of 433 total customers.
 
-#### - Which age group has the highest number of subscribers to our subscription plan and how by how many?
+#### - Which age group has the highest number of subscribers to our subscription plan and by how many ?
 
 ![Subscription Rate](https://github.com/ezraonyinkwa/Shopping-Trends-Analysis-Power-BI/assets/139281995/15f1915c-ae8e-413b-b26c-d322439087ff)
 
@@ -100,7 +129,7 @@ A significant portion of our customers have not subscribed to our subscription p
 On the other hand, customers from the age group 45-54 represent the highest number of subscribers, with 229 customers opting for our subscription plan.
 These insights suggest that subscription uptake varies significantly across different age groups. Understanding these patterns can help us tailor our marketing strategies and subscription offers to better target the age groups with lower subscription rates, thereby enhancing overall subscription engagement and customer retention.
 
-#### - What gender are most of our customers?
+#### - What gender are most of our customers ?
 
 ![image](https://github.com/ezraonyinkwa/Shopping-Trends-Analysis-Power-BI/assets/139281995/4ec0b532-03d5-4e67-9aae-4295c0d26acf)
 
@@ -132,7 +161,7 @@ In this section we are going to look at the different perfomance of our products
 #### Insights
 The clothing product category generates the highest sales, with a total sales amount of $2,646,306. This indicates a strong customer preference for clothing items, making it the most lucrative product category.The accessories category follows, with total sales amounting to $1,896,187. This shows a significant demand for accessory products, contributing substantially to overall sales.This category generates the lowest sales, with a total sales amount of $462,084. This suggests a lower customer interest in outerwear products compared to other categories.These insights highlight the dominant role of clothing products in driving our sales revenue, with accessories also playing a significant part.
 
-#### - Which are our top 10 products and how much do we make in sales from the products?
+#### - Which are our top 10 products and how much do we make in sales from the products ?
 
 ![Top 10 products](https://github.com/ezraonyinkwa/Shopping-Trends-Analysis/assets/139281995/400958ca-59b5-47bc-823f-42386792e2ca)
 
@@ -210,6 +239,10 @@ Florida is the leading location among the bottom 10, with a total of 1,777 units
 ## Dashboard
 
 ![Regional Analysis](https://github.com/ezraonyinkwa/Shopping-Trends-Analysis/assets/139281995/d7b62f85-8444-480a-a32a-01fb531cc4e0)
+
+## limitations
+The limitation oft this analysis is that the data lacked date making it difficult to know the period of the shopping trend. The lack of dates in the dataset means we cannot determine the time frame during which the data was collected. This uncertainty makes it challenging to understand the temporal dynamics and trends within the data.Without dates, it is impossible to perform seasonal analysis or determine how shopping behaviors change over different periods of the year.
+Comparing performance across different years or time periods is not possible without date information. This comparison is essential for understanding growth and performance metrics.
 
 
 

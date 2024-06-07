@@ -28,7 +28,14 @@
     - [Which is the preffered shipping method ?](--which-is-the-preffered-shipping-method-)
     - [Recommendations](#recommendations)
     - [Dashboard](#dashboard)
-
+11. [Regional Analysis](#3-regional-analysis)
+    - [Where are most of our customers located ?](--where-are-most-of-our-customers-located-)
+    - [Do sales vary during different season of the year, which season do we have the highest sales ?](--do-sales-vary-during-different-season-of-the-yaerwhich-season-do-we-have-the-highest-sales-)
+    - [From our customers location which location do we get the highest sales?](--frrom-our-customers-location-which-location-do-we-get-the-highest-sales-)
+    - [Which location do we sale the most units ?](--which-location-do-we-sale-the-most-units-)
+    - [Recommendations](#recommendations)
+    - [Dashboard](#dashboard)
+12. [Limitations](#limitations)
 
 ### Project Overview
 
@@ -57,9 +64,11 @@ We carried out data formatting  dataset by ensuring the letters were well capita
 We formatted the data by replacing values to a more understandable and easy format (This was carried out in the size column), we used the find and replace option to carry out this formatting.
 
 2. Handling Missing Values
- We ran a quick check for any missing values using ctrl+G to check for blanks,the dataset contained no missing values.
+   
+We ran a quick check for any missing values using ctrl+G to check for blanks,the dataset contained no missing values.
 
-3.Removing Duplicates
+3. Removing Duplicates
+
 We checked for duplicates value by highlighting the wholee data and pressing ctrl+G but there were no duplicates found.
 
 ### Data Modelling

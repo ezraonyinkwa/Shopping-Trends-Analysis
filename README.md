@@ -168,6 +168,56 @@ Free shipping is the most preferred shipping method among our customers, with a 
 
 ![Product Analysis](https://github.com/ezraonyinkwa/Shopping-Trends-Analysis/assets/139281995/627c67c8-cbee-43f3-9b57-2108f868411d)
 
+## 3. Regional Analysis
+Regional analysis is a critical approach in understanding the geographic distribution of business activities, customer behaviors, and market trends. 
+
+#### - Where are most of our customers located?
+
+![Customer distribution](https://github.com/ezraonyinkwa/Shopping-Trends-Analysis/assets/139281995/bc1295a0-89a3-435b-be82-b3b7a5f99f52)
+
+#### Insights
+ Montana has the highest number of customers, with a total of 96 customers. This indicates a strong presence and potentially higher market penetration in this region.Both Delaware and Maryland have the lowest number of customers, with 86 customers each. This suggests a lower market presence in these regions.These insights highlight the significant customer base in Montana and the relatively lower customer engagement in Delaware and Maryland.
+
+ #### - Do sales vary during different season of the year, which season do we have the highest sales?
+ 
+ ![Seasonal Sales](https://github.com/ezraonyinkwa/Shopping-Trends-Analysis/assets/139281995/5d7f82e2-12f2-484c-95cb-6e60c25d2e11)
+
+ #### Insights
+The winter season generates the highest sales, with a total amount of $1,517,469, accounting for 25.63% of the total sales. This indicates a strong customer purchasing activity during the winter months, making it the most lucrative season for our business.The summer season has the lowest sales, with a total amount of $1,429,054, representing 24.14% of the total sales. Although it is the lowest, it still constitutes a significant portion of the overall sales.These insights highlight the peak sales period during the winter season, suggesting that customers are more inclined to make purchases during this time.
+
+#### - From our customers location which location do we get the highest sales?
+
+![Total Sales by Location](https://github.com/ezraonyinkwa/Shopping-Trends-Analysis/assets/139281995/7cfc5bd1-4d87-41b1-a579-9f694fbe00ca)
+
+
+#### Insights
+Illinois is the leading location in terms of sales, generating a total of $150,662. This indicates a strong market presence and high customer engagement in this state.California has the lowest sales among the top 10 locations, with a total of $133,017. While still significant, this amount is lower compared to other top-performing locations.These insights highlight the robust sales performance in Illinois, suggesting it as a key market for our business. The relatively lower sales in California, despite being a top 10 location, indicate potential for growth and improvement
+
+#### - Which location do we sale the least units?
+
+![Bottom 10 locations by sales](https://github.com/ezraonyinkwa/Shopping-Trends-Analysis/assets/139281995/d9a50eaa-5742-4056-a5db-e13a42263df5)
+
+#### Insights 
+Florida is the leading location among the bottom 10, with a total of 1,777 units sold. This indicates that, despite being in the lower tier, Florida still maintains a relatively higher sales volume compared to the other locations in this segment.Kansas has the lowest number of units sold among the bottom 10 locations, with a total of 1,473 units sold. This suggests a lower customer engagement and sales performance in this state.These insights highlight the need to address the sales performance in these bottom 10 locations. Despite Florida leading in this segment, there is still room for improvement. 
+
+## Recommendations
+- Develop specific marketing campaigns aimed at increasing visibility and engagement in the bottom 10 locations. Highlight unique offers and promotions to attract more customers.Implement localized promotions and discounts tailored to the preferences and needs of customers in these regions, with a special focus on Kansas to boost sales where it is lowest.Gather and analyze customer feedback from these locations to understand any specific barriers or challenges they face. Use this information to make necessary adjustments to products or services.
+- Capitalize on the high sales during the winter season by ramping up inventory, launching winter-specific products, and increasing promotional activities.Develop strategies to boost summer sales, such as introducing summer-exclusive products, running summer sales events, and creating targeted marketing campaigns to drive customer interest during the summer months.
+- Continue to reinforce and leverage the strong customer base in Montana by maintaining high inventory levels, offering loyalty programs, and enhancing customer service.Implement targeted customer acquisition campaigns in Delaware and Maryland, such as personalized marketing efforts, regional partnerships, and community engagement activities to increase brand visibility and attract new customers.
+- Maintain and further enhance the sales performance in Illinois by offering exclusive deals, improving customer service, and ensuring the availability of popular products.Increase efforts to boost sales in California by understanding local market preferences, optimizing product offerings, and running targeted promotional campaigns to attract more customers.
+
+
+## Dashboard
+
+![Regional Analysis](https://github.com/ezraonyinkwa/Shopping-Trends-Analysis/assets/139281995/d7b62f85-8444-480a-a32a-01fb531cc4e0)
+
+
+
+
+
+
+
+
   
 
 
